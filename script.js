@@ -1,13 +1,11 @@
-let sideMenu = document.getElementById("sidemenu");
-
-function openmenu(){
-    sideMenu.style.right = "0";
-}
-
-function closemenu(){
-    sideMenu.style.right = "-200px";
-}
-
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+  };
 
 
 
