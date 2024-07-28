@@ -43,7 +43,7 @@ nav{
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
-    font-size: 22px;
+    font-size: 20px;
   }
 
 /* Change the color of links on hover */
@@ -351,7 +351,7 @@ form .btn3{
       display: block;
     }
   }
-  
+
 @media only screen and (max-width: 600px){
     .topnav.responsive {position: relative;}
     .topnav.responsive a.icon {
