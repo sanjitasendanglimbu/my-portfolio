@@ -114,6 +114,12 @@ nav{
 .about-col-2{
     flex-basis: 60%;  
 }
+.about-col-2 p{
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 18px;
+   
+}
 .sub-title{
     font-size: 60px;
     font-weight: 600;
@@ -381,7 +387,8 @@ form .btn3{
         align-items: center;
     }
     .header-text .img{
-        width: 100%;
+        width: 100vw;
+
     }
     .img img{
        width: 100%;
