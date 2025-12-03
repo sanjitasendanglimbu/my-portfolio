@@ -195,13 +195,16 @@ nav{
 .services-list div a{
     text-decoration: none;
     color: #fff;
-    font-size: 12px;
+    font-size: 14px;
     margin-top: 20px;
     display: inline-block;
 }
 .services-list div:hover{
     background: #ff004f;
     transform: translateY(-10px);
+}
+.services-list div p{
+  font-size: 14px; 
 }
 
 /* ------portfolio---- */
